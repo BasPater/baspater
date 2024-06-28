@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a passionate software developer with a keen interest in front-end development. 
 
-# 🛠️ My Skills
+## 🛠️ My Skills
 
 **Programming Languages**
 
