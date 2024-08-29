@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 
 **Frameworks**
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,graphql,tailwind,flutter,androidstudio,spring)]()
+[![My Skills](https://skillicons.dev/icons?i=react,vue,graphql,tailwind,flutter,androidstudio,spring,md,nodejs)]()
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=idea,webstorm,git,gitlab,github,githubactions,docker,postman)]()
+[![My Skills](https://skillicons.dev/icons?i=idea,webstorm,git,gitlab,github,githubactions,docker,postman,figma)]()
