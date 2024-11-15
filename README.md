@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bas Peters!
+# 👋 Hi, I'm Bas!
 
 Welcome to my GitHub profile! I am a passionate software developer with a keen interest in front-end/mobile development. 
 
