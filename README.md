@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 
 **Programming Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,dart,kotlin,java,mysql)]()
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,dart,kotlin,java,mysql,swift)]()
 
 **Frameworks**
 
@@ -14,4 +14,4 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=idea,webstorm,git,gitlab,github,githubactions,docker,postman,figma)]()
+[![My Skills](https://skillicons.dev/icons?i=idea,webstorm,git,gitlab,github,githubactions,docker,postman,figma,xcode)]()
