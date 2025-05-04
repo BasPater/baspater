@@ -14,4 +14,4 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=idea,webstorm,git,gitlab,github,githubactions,docker,postman,figma,xcode)]()
+[![My Skills](https://skillicons.dev/icons?i=idea,webstorm,git,gitlab,github,githubactions,docker,postman,figma,apple)]()
